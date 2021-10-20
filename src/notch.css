@@ -1,0 +1,13 @@
+/*! notch.css v1.0.0 | github.com/xta/notch-css */
+
+body::before {
+    content:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='90' viewBox='0 0 400 90' fill='010101'><path d='M66.185 19.455 C 66.188 41.162,66.358 41.991,71.448 45.095 L 71.448 45.095 335.825 45.095 C 340.915 41.991,341.085 41.162,341.088 19.455 L 341.091 0.000 203.636 0.000 L 66.182 0.000 66.185 19.455' /></svg>");
+    display: block;
+    width: 400px;
+    height: 90px;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    margin-left: -200px;
+    z-index: 999;
+}
