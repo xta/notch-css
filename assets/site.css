@@ -32,4 +32,8 @@ footer {
     }
 
 
+    code.highlight {
+        overflow-wrap: break-word;
+    }
+
 }
