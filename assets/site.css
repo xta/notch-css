@@ -22,3 +22,14 @@ div.usage {
 footer {
     margin-top: 2rem;
 }
+
+/* Up to 40 em (640 px) */
+@media (max-width: 40.0rem) {
+
+    body {
+        margin-top: 3rem;
+        padding: 1rem;
+    }
+
+
+}
