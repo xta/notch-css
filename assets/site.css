@@ -1,0 +1,24 @@
+body {
+    padding: 5rem;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.main {
+    padding: 2rem;
+    background-color: rgb(243, 244, 246);
+    border-radius: 30px;
+}
+
+div.usage {
+    margin-top: 2rem;
+
+}
+
+.highlight {
+    background-color: rgb(255, 251, 235);
+}
+
+footer {
+    margin-top: 2rem;
+}
